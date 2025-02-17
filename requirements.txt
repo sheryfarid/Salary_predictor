@@ -1,5 +1,4 @@
 pandas
-pickle
 word2number
 scikit-learn
 streamlit
